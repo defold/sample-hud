@@ -1,7 +1,6 @@
-
 # HUD - sample project
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bcU9PCrPAeY" frameborder="0" allowfullscreen></iframe>
+[![Parallax](https://img.youtube.com/vi/NoPHHG2kbOk/0.jpg)](https://www.youtube.com/watch?v=NoPHHG2kbOk)
 
 In this sample, we demonstrate effects for score counting. The scores appear randomly over the screen, simulating a game where the player obtains scores at different positions.
 
